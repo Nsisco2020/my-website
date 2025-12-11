@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(212, 193, 210);
+    font-family:Arial, Helvetica, sans-serif ;
+}
+h1{
+    color: brown;
+    text-align:center;
+    font-size: 50px;
+font-weight: 800;
+font-style: normal;
+    
+}
+b{
+    color: rgb(51, 33, 131);
+}
+img{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+
+}
+h2{
+    text-align: center;
+    color: rgb(35, 43, 43);
+}
+ul{
+   color: rgb(6, 109, 12);
+   font-size: medium; 
+}
+ol{
+    color: rgb(20, 97, 36);
+}
+.icon{
+    height: 30px;
+    width: 30px;
+}
+table{color: rgb(204, 43, 110);font-size: larger;grid-auto-flow: ;}
+form{color: blueviolet;font-size: larger;}
+h2{color: rgba(6, 6, 37, 0.856);font font-size:-ms-layout-grid-line: border: height: height:}
