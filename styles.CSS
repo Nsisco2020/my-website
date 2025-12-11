@@ -34,6 +34,7 @@ ol{
     height: 30px;
     width: 30px;
 }
-table{color: rgb(204, 43, 110);font-size: larger;grid-auto-flow: ;}
+table{color: rgb(204, 43, 110);font-size: larger;}
 form{color: blueviolet;font-size: larger;}
-h2{color: rgba(6, 6, 37, 0.856);font font-size:-ms-layout-grid-line: border: height: height:}
+/* h2{color: rgba(6, 6, 37, 0.856);
+    font-size:-ms-layout-grid-line: border: height: height:} */
